@@ -2,11 +2,11 @@
  
 ## F1Tenth
 
-F1Tenth is a global racing competition where teams race autonomous cars 1/10 the scale of traditional F1 vehicles.
+[F1Tenth](https://roboracer.ai/) is a global racing competition where teams race autonomous cars 1/10 the scale of traditional F1 vehicles.
 
 ## Disparity Extender
 
-This algorithm is a personal extension to the original Disparity algorithm used by a team from [UNC-Chapel Hill](https://www.nathanotterness.com/2019/04/the-disparity-extender-algorithm-and.html) who won the [F1Tenth](https://roboracer.ai/) competition held at CPSWeek 2019. 
+This algorithm is a personal extension to the original Disparity algorithm used by a team from [UNC-Chapel Hill](https://www.nathanotterness.com/2019/04/the-disparity-extender-algorithm-and.html) who won the F1Tenth competition held at CPSWeek 2019. 
 
 ## Disparity Extender Adaptive
 
