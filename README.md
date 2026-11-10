@@ -1,4 +1,4 @@
-# Modified Disparity Algorithm
+# Disparity+
  
 ## F1Tenth
 
